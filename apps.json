@@ -4,18 +4,21 @@
         "description": "",
         "iosUrl": "https://apps.apple.com/us/app/touch-the-number/id1213236521",
         "iosAppId": "1213236521",
+        "androidPackageId": "",
         "androidUrl": ""
     },{
         "name": "脳トレ-Touch ABC",
         "description": "",
         "iosUrl": "https://apps.apple.com/us/app/脳トレ-touch-abc/id1511547536",
         "iosAppId": "1511547536",
+        "androidPackageId": "",
         "androidUrl": ""
     },{
         "name": "決まり字百人一首",
         "description": "",
         "iosUrl": "https://apps.apple.com/us/app/決まり字百人一首/id1202581512",
         "iosAppId": "1202581512",
+        "androidPackageId": "",
         "andandroidUrlroid": ""
     }
 ]
