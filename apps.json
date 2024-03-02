@@ -1,7 +1,7 @@
 [
     {
         "name": "Touch the Number",
-        "description": "1から順に数字をタッチしてくゲームです。\n3×3, 5×5, 7×7, 10×10 の4つのステージを選択できます。",
+        "description": "1から順に数字をタッチしてくゲームです。\nステージは3×3, 5×5, 7×7, 10×10 の4つ！",
         "iconUrl": "https://zhenya0626.github.io/info_apps/img/touch_the_number.png",
         "iosUrl": "https://apps.apple.com/us/app/touch-the-number/id1213236521",
         "iosAppId": "1213236521",
