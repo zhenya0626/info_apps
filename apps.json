@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Touch the Number",
         "description": "1から順に数字をタッチしてくゲームです。\nステージは3×3, 5×5, 7×7, 10×10 の4つ！",
         "iconUrl": "https://zhenya0626.github.io/info_apps/img/touch_the_number.png",
@@ -8,6 +9,7 @@
         "androidPackageId": "",
         "androidUrl": ""
     },{
+        "id": 2,
         "name": "脳トレ-Touch ABC",
         "description": "アルファベットをAから順にタッチ！\n26文字をタッチするスピードを競おう！",
         "iconUrl": "https://zhenya0626.github.io/info_apps/img/touch_abc.png",
@@ -16,6 +18,16 @@
         "androidPackageId": "",
         "androidUrl": ""
     },{
+        "id": 3,
+        "name": "決まり字百人一首",
+        "description": "百人一首を取るために語呂合わせで暗記！\n決まり字を見て取り札を取れ！",
+        "iconUrl": "https://zhenya0626.github.io/info_apps/img/hyakunin.png",
+        "iosUrl": "https://apps.apple.com/us/app/決まり字百人一首/id1202581512",
+        "iosAppId": "1202581512",
+        "androidPackageId": "",
+        "andandroidUrlroid": ""
+    },{
+        "id": 4,
         "name": "決まり字百人一首",
         "description": "百人一首を取るために語呂合わせで暗記！\n決まり字を見て取り札を取れ！",
         "iconUrl": "https://zhenya0626.github.io/info_apps/img/hyakunin.png",
