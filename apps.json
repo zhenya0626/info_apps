@@ -25,15 +25,15 @@
         "iosUrl": "https://apps.apple.com/us/app/決まり字百人一首/id1202581512",
         "iosAppId": "1202581512",
         "androidPackageId": "",
-        "andandroidUrlroid": ""
+        "andandroidUrl": ""
     },{
         "id": 4,
-        "name": "決まり字百人一首",
-        "description": "百人一首を取るために語呂合わせで暗記！\n決まり字を見て取り札を取れ！",
-        "iconUrl": "https://zhenya0626.github.io/info_apps/img/hyakunin.png",
-        "iosUrl": "https://apps.apple.com/us/app/決まり字百人一首/id1202581512",
-        "iosAppId": "1202581512",
-        "androidPackageId": "",
-        "andandroidUrlroid": ""
+        "name": "Copa - 気分を整えるための自分だけのリスト",
+        "description": "疲れた時、落ち込んだ時に元気になれることをリスト化しよう",
+        "iconUrl": "https://zhenya0626.github.io/info_apps/img/copa.png",
+        "iosUrl": "https://apps.apple.com/jp/app/id6741803753",
+        "iosAppId": "6741803753",
+        "androidPackageId": "com.gmail.zhenya7485.copa",
+        "andandroidUrl": "https://play.google.com/store/apps/details?id=com.gmail.zhenya7485.copa"
     }
 ]
