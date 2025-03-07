@@ -33,7 +33,25 @@
         "iconUrl": "https://zhenya0626.github.io/info_apps/img/copa.png",
         "iosUrl": "https://apps.apple.com/jp/app/id6741803753",
         "iosAppId": "6741803753",
-        "androidPackageId": "com.gmail.zhenya7485.copa",
-        "andandroidUrl": "https://play.google.com/store/apps/details?id=com.gmail.zhenya7485.copa"
+        "androidPackageId": "",
+        "andandroidUrl": ""
+    },{
+        "id": 5,
+        "name": "有名絵画クイズ",
+        "description": "有名絵画を覚えよう！某有名島ゲームに登場する絵画を制覇！",
+        "iconUrl": "https://zhenya0626.github.io/info_apps/img/famous_paintings.png",
+        "iosUrl": "https://apps.apple.com/jp/app/id6742537166",
+        "iosAppId": "6742537166",
+        "androidPackageId": "",
+        "andandroidUrl": ""
+    },{
+        "id": 6,
+        "name": "アフリカクイズ",
+        "description": "54のアフリカの国の国名・首都・国旗・場所を覚えよう",
+        "iconUrl": "https://zhenya0626.github.io/info_apps/img/african_countries.png",
+        "iosUrl": "https://apps.apple.com/jp/app/id6742898304",
+        "iosAppId": "6742898304",
+        "androidPackageId": "",
+        "andandroidUrl": ""
     }
 ]
