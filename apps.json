@@ -53,5 +53,14 @@
         "iosAppId": "6742898304",
         "androidPackageId": "",
         "andandroidUrl": ""
+    },{
+        "id": 7,
+        "name": "激ムズ！フォントクイズ",
+        "description": "定番の日本語フォントを覚えよう",
+        "iconUrl": "https://zhenya0626.github.io/info_apps/img/fontquiz.png",
+        "iosUrl": "https://apps.apple.com/jp/app/id6743422028",
+        "iosAppId": "6743422028",
+        "androidPackageId": "",
+        "andandroidUrl": ""
     }
 ]
